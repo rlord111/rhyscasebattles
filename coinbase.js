@@ -1,0 +1,1 @@
+const CHECKOUT_ID = 'your-checkout-id-here';
