@@ -1,0 +1,11 @@
+{
+  "name": "rhyscoinblackjack",
+  "version": "1.0.0",
+  "description": "Static Rhys Coin Casino site",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - nothing to run'"
+  },
+  "author": "Rhys",
+  "license": "ISC"
+}

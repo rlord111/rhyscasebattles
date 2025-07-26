@@ -1,24 +1,15 @@
-
 body {
   background-color: #000;
   color: gold;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: Arial, sans-serif;
   text-align: center;
-  padding: 50px;
+  padding-top: 100px;
 }
-.container {
-  max-width: 600px;
-  margin: auto;
-}
-.button-group button {
-  background: gold;
-  color: black;
+button {
+  background-color: gold;
   border: none;
-  padding: 10px 20px;
-  margin: 10px;
-  font-size: 16px;
+  padding: 15px 30px;
+  font-size: 1.2rem;
   cursor: pointer;
-}
-.button-group button:hover {
-  background: #ffcc00;
+  border-radius: 10px;
 }
