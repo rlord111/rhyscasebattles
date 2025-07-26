@@ -1,16 +1,14 @@
-# Rhys Coin Casino
 
-A crypto-powered casino site built for RhysCoin (RHC).
+# Rhys Coin Casino Site
 
-## Pages
-- Coin Flip
-- Blackjack
-- Roulette
-- Case Opening
-- Poker
-- Player Profile
+## 🛠 How to Use
 
-## Deployment
-1. Upload all files to GitHub.
-2. Import to Vercel.
-3. Set Coinbase CHECKOUT_ID in coinbase.js
+1. Upload these files to GitHub.
+2. Connect to Vercel and deploy.
+3. No environment variables or webhook required.
+4. Coin buttons use Coinbase Commerce checkout links.
+
+## 🧾 Build Command (in Vercel)
+
+- Build: `npm run build` or just deploy `public` folder
+- Output directory: `public`
