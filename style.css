@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #000;
+  color: #FFD700;
+}
+
+nav {
+  background: #111;
+  padding: 1rem;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  color: #FFD700;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  text-align: center;
+  padding: 2rem;
+}
